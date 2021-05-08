@@ -1,0 +1,2 @@
+#define VERSIONWRAPPER_API __declspec(dllexport)
+#define VERSIONWRAPPER_API __declspec(dllimport)
